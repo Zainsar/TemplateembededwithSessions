@@ -41,7 +41,7 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult Book()
+        public IActionResult Error()
         {
             if (HttpContext.Session.GetString("role") == "user")
             {
@@ -54,7 +54,43 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult Menu()
+        public IActionResult Contact()
+        {
+            if (HttpContext.Session.GetString("role") == "user")
+            {
+                ViewBag.email = HttpContext.Session.GetString("userEmail");
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Login", "Admin");
+            }
+        }
+        public IActionResult Courses()
+        {
+            if (HttpContext.Session.GetString("role") == "user")
+            {
+                ViewBag.email = HttpContext.Session.GetString("userEmail");
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Login", "Admin");
+            }
+        }
+        public IActionResult Team()
+        {
+            if (HttpContext.Session.GetString("role") == "user")
+            {
+                ViewBag.email = HttpContext.Session.GetString("userEmail");
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Login", "Admin");
+            }
+        }
+        public IActionResult Testimonial()
         {
             if (HttpContext.Session.GetString("role") == "user")
             {
@@ -67,7 +103,7 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult LogoutAdmin()
+        public IActionResult LogoutUser()
         {
             HttpContext.Session.Clear();
             HttpContext.Session.Remove("role");

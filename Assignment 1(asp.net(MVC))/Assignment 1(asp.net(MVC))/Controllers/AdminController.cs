@@ -29,7 +29,7 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult IconMenu()
+        public IActionResult Error()
         {
             if (HttpContext.Session.GetString("role") == "admin")
             {
@@ -43,7 +43,7 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult SidebarStyle2()
+        public IActionResult Blank()
         {
             if (HttpContext.Session.GetString("role") == "admin")
             {
@@ -71,7 +71,7 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult DataTables()
+        public IActionResult Table()
         {
             if (HttpContext.Session.GetString("role") == "admin")
             {
@@ -85,7 +85,7 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult Tables()
+        public IActionResult Button()
         {
             if (HttpContext.Session.GetString("role") == "admin")
             {
@@ -99,7 +99,7 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult GoogleMaps()
+        public IActionResult Chart()
         {
             if (HttpContext.Session.GetString("role") == "admin")
             {
@@ -113,7 +113,7 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult JsVectorMap()
+        public IActionResult Element()
         {
             if (HttpContext.Session.GetString("role") == "admin")
             {
@@ -127,119 +127,7 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult Forms()
-        {
-            if (HttpContext.Session.GetString("role") == "admin")
-            {
-                ViewBag.username = HttpContext.Session.GetString("adminUsername");
-                ViewBag.email = HttpContext.Session.GetString("adminEmail");
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login");
-            }
-        }
-
-        public IActionResult Avatars()
-        {
-            if (HttpContext.Session.GetString("role") == "admin")
-            {
-                ViewBag.username = HttpContext.Session.GetString("adminUsername");
-                ViewBag.email = HttpContext.Session.GetString("adminEmail");
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login");
-            }
-        }
-
-        public IActionResult Buttons()
-        {
-            if (HttpContext.Session.GetString("role") == "admin")
-            {
-                ViewBag.username = HttpContext.Session.GetString("adminUsername");
-                ViewBag.email = HttpContext.Session.GetString("adminEmail");
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login");
-            }
-        }
-
-        public IActionResult FontAwesomeIcons()
-        {
-            if (HttpContext.Session.GetString("role") == "admin")
-            {
-                ViewBag.username = HttpContext.Session.GetString("adminUsername");
-                ViewBag.email = HttpContext.Session.GetString("adminEmail");
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login");
-            }
-        }
-
-        public IActionResult GridSystem()
-        {
-            if (HttpContext.Session.GetString("role") == "admin")
-            {
-                ViewBag.username = HttpContext.Session.GetString("adminUsername");
-                ViewBag.email = HttpContext.Session.GetString("adminEmail");
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login");
-            }
-        }
-
-        public IActionResult Notifications()
-        {
-            if (HttpContext.Session.GetString("role") == "admin")
-            {
-                ViewBag.username = HttpContext.Session.GetString("adminUsername");
-                ViewBag.email = HttpContext.Session.GetString("adminEmail");
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login");
-            }
-        }
-
-        public IActionResult Panels()
-        {
-            if (HttpContext.Session.GetString("role") == "admin")
-            {
-                ViewBag.username = HttpContext.Session.GetString("adminUsername");
-                ViewBag.email = HttpContext.Session.GetString("adminEmail");
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login");
-            }
-        }
-
-        public IActionResult SimpleLineIcons()
-        {
-            if (HttpContext.Session.GetString("role") == "admin")
-            {
-                ViewBag.username = HttpContext.Session.GetString("adminUsername");
-                ViewBag.email = HttpContext.Session.GetString("adminEmail");
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login");
-            }
-        }
-
-        public IActionResult SweetAlert()
+        public IActionResult Form()
         {
             if (HttpContext.Session.GetString("role") == "admin")
             {
@@ -267,34 +155,6 @@ namespace Assignment_1_asp.net_MVC__.Controllers
             }
         }
 
-        public IActionResult Charts()
-        {
-            if (HttpContext.Session.GetString("role") == "admin")
-            {
-                ViewBag.username = HttpContext.Session.GetString("adminUsername");
-                ViewBag.email = HttpContext.Session.GetString("adminEmail");
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login");
-            }
-        }
-
-        public IActionResult Sparkline()
-        {
-            if (HttpContext.Session.GetString("role") == "admin")
-            {
-                ViewBag.username = HttpContext.Session.GetString("adminUsername");
-                ViewBag.email = HttpContext.Session.GetString("adminEmail");
-                return View();
-            }
-            else
-            {
-                return RedirectToAction("Login");
-            }
-        }
-
         public IActionResult Login()
         {
             return View();
@@ -304,14 +164,14 @@ namespace Assignment_1_asp.net_MVC__.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Login(string email, string pass, string username)
         {
-            if (email == "admin@gmail.com" && pass == "123" && username == "Admin")
+            if (email == "superadmin@gmail.com" && pass == "123456" && username == "Zain")
             {
                 HttpContext.Session.SetString("adminEmail", email);
                 HttpContext.Session.SetString("adminUsername" , username);
                 HttpContext.Session.SetString("role", "admin");
                 return RedirectToAction("Index");
             }
-            else if (email == "huda@gmail.com" && pass == "123" && username == "Huda")
+            else if (email == "zainsarfraz82@gmail.com" && pass == "123456" && username == "Zain")
             {
                 HttpContext.Session.SetString("adminUsername" , username);
                 HttpContext.Session.SetString("userEmail", email);

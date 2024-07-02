@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mutahir\\Documents\\Github\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC)).csproj": {}
+    "C:\\Users\\Mutahir\\Documents\\Github\\TemplateembededwithSessions\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC)).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mutahir\\Documents\\Github\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC)).csproj": {
+    "C:\\Users\\Mutahir\\Documents\\Github\\TemplateembededwithSessions\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC)).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mutahir\\Documents\\Github\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC)).csproj",
+        "projectUniqueName": "C:\\Users\\Mutahir\\Documents\\Github\\TemplateembededwithSessions\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC)).csproj",
         "projectName": "Assignment 1(asp.net(MVC))",
-        "projectPath": "C:\\Users\\Mutahir\\Documents\\Github\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC)).csproj",
+        "projectPath": "C:\\Users\\Mutahir\\Documents\\Github\\TemplateembededwithSessions\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC)).csproj",
         "packagesPath": "C:\\Users\\Mutahir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mutahir\\Documents\\Github\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC))\\obj\\",
+        "outputPath": "C:\\Users\\Mutahir\\Documents\\Github\\TemplateembededwithSessions\\Assignment 1(asp.net(MVC))\\Assignment 1(asp.net(MVC))\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -29,3 +29,34 @@ C:\Users\Mutahir\Documents\Github\Assignment 1(asp.net(MVC))\Assignment 1(asp.ne
 C:\Users\Mutahir\Documents\Github\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).pdb
 C:\Users\Mutahir\Documents\Github\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).genruntimeconfig.cache
 C:\Users\Mutahir\Documents\Github\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\ref\Assignment 1(asp.net(MVC)).dll
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).csproj.AssemblyReference.cache
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).AssemblyInfoInputs.cache
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).AssemblyInfo.cs
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).csproj.CoreCompileInputs.cache
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).RazorAssemblyInfo.cache
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).RazorAssemblyInfo.cs
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).dll
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\refint\Assignment 1(asp.net(MVC)).dll
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).pdb
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\bin\Debug\net7.0\appsettings.json
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\bin\Debug\net7.0\Assignment 1(asp.net(MVC)).staticwebassets.runtime.json
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\bin\Debug\net7.0\Assignment 1(asp.net(MVC)).exe
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\bin\Debug\net7.0\Assignment 1(asp.net(MVC)).deps.json
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\bin\Debug\net7.0\Assignment 1(asp.net(MVC)).runtimeconfig.json
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\bin\Debug\net7.0\Assignment 1(asp.net(MVC)).dll
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\bin\Debug\net7.0\Assignment 1(asp.net(MVC)).pdb
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\staticwebassets\msbuild.Assignment 1(asp.net(MVC)).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\staticwebassets\msbuild.build.Assignment 1(asp.net(MVC)).props
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Assignment 1(asp.net(MVC)).props
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Assignment 1(asp.net(MVC)).props
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\scopedcss\bundle\Assignment 1(asp.net(MVC)).styles.css
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\scopedcss\projectbundle\Assignment 1(asp.net(MVC)).bundle.scp.css
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\Assignment 1(asp.net(MVC)).genruntimeconfig.cache
+C:\Users\Mutahir\Documents\Github\TemplateembededwithSessions\Assignment 1(asp.net(MVC))\Assignment 1(asp.net(MVC))\obj\Debug\net7.0\ref\Assignment 1(asp.net(MVC)).dll
